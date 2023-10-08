@@ -15,7 +15,7 @@
 #
 
 # Get vendor-specific stuff
-$(call inherit-product, vendor/lenovo/X605F/X605F-vendor.mk)
+$(call inherit-product, vendor/lenovo/X605LC/X605LC-vendor.mk)
 
 # Overlay
 DEVICE_PACKAGE_OVERLAYS += \
